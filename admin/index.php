@@ -1,0 +1,1 @@
+<a href="categories.php"> Go to Product Categories</a>

@@ -1,0 +1,82 @@
+
+.header{
+    
+    padding:5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-decoration: none;
+    color:  #EB3656;
+ /*   background-color:silver;*/
+    text-align: center;
+}
+.Row1{
+    margin-top: 5px;
+    margin-left: 5px;
+  
+    
+}
+.CardStyling{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 0px;
+    width:500px;
+    height:580px;
+    padding:20px;
+    align-items: center;
+    
+
+}
+.FirstColmRow2{
+    padding:20px;
+    background-color: white;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 20px;
+
+}
+.cross{
+    margin-left: 600px;
+}
+.labels1{
+margin-top: 20px;
+}
+.prop{
+    align-items: center;
+}
+#im{
+    padding:50xp;
+    margin-top: 40px;
+}
+
+.sectioncard{
+
+    padding:10px;
+    margin:1px;
+    border: 2px solid #EB3656;
+    flex:min-content;
+    
+
+}
+
+.cardbox{
+
+    padding:10px;
+   
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+input[type="checkbox"]{
+    width: 50px; /*Desired width*/
+    height: 50px; /*Desired height*/
+    cursor: pointer;
+    
+  }
+
+  .section-box{
+      background-color: #fff;
+  }
+
+
+  .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: pink;
+  }

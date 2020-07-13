@@ -1,0 +1,31 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}/*
+#side1{
+    border:1px solid rgb(10, 10, 10);
+}
+#side2{
+    border:1px solid black;
+}*/
+.mydatatable{
+    height:600px;
+    overflow: scroll;
+}
+.btn{
+background-color:#EB3656;
+
+text-emphasis-color: white;
+color:white;
+}
+.card{
+
+    font-weight: bold;
+}
+#hsize{
+width:50px;
+
+}
+#productCenter{
+  /* text-align:center;*/
+    margin-left: 40px;
+}
